@@ -764,4 +764,3 @@ class ET2019Main:
 
 etmain = ET2019Main()
 etmain.root.mainloop()
-
